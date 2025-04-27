@@ -10,7 +10,7 @@ Foram utilizadas as seguintes bibliotecas para análise: `networkx`, `pandas`, `
 Ao ser analisada a assortatividade dos diferentes tipos de ingredientes das 50 receitas da culinária brasileira, pôde-se observar uma assortatividade negativa, representando heterofilia. Foi visualizado no grafo gerado que ingredientes não tendem a ser usados com ingredientes do mesmo tipo, mas sim com tipos diferentes, o que é algo coerente no ponto de vista culinário.
 
 
-Grafo gerado: 
+### Grafo gerado: 
 
 ![image](https://github.com/user-attachments/assets/539ebf3f-2235-4089-a036-69a94364000a)  
 
