@@ -1,7 +1,9 @@
 # Análise de Assortatividade em Grafos de Ingredientes da Culinária Brasileira
 
 ## Autor:  
-### • Maurício Matheus Araújo Silva Galvão - Engenharia de Computação
+### • Maurício Matheus Araújo Silva Galvão - Engenharia de Computação  
+
+Link para o vídeo: https://drive.google.com/drive/u/0/folders/1lUTCXclKlW-XkqAFRhldlotX-Tt8DdHS
 
 O Objetivo desta tarefa é construir um grafo de co-ocorrência de ingredientes de receitas da culinária brasileira. Os ingredientes foram classificados por tipo, além de ter sido analisada a assortatividade do grafo criado.  
 
